@@ -1,0 +1,318 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+
+.text_logo{
+	font-size: 20px;
+}
+
+/*	slider start*/
+
+.s_slide{
+    text-align: center;
+    margin: 95px 5px;
+}
+.slide_h1{
+    font-size: 25px;
+}
+.slide_p{
+    margin: 50px 0 55px;
+    line-height: 30px;
+}
+.ind{
+    text-align: center;
+}
+/*service start*/
+
+.ser_title{
+	padding-top: 30px;
+}
+.arrow {
+    height: 35px;
+}
+.ser_h1 {
+	font-size: 25px;
+    margin: 20px 0 40px;
+}
+.ser_p {
+    padding: 0 15px 40px;
+}
+.ser_item {
+    margin: 35px;
+}  
+.ser_icon {
+    padding-bottom: 20px;
+}
+/*about start*/
+.about {
+    padding: 50px 0 100px;
+}
+.about_img {
+    padding: 0 15px 45px;
+}
+.abt {
+    padding: 0 44px;
+    text-align: center;
+}
+.para {
+    margin: 0;
+    padding: 25px 0;
+    line-height: 35px;
+}
+.button{
+	justify-content: center;
+    display: flex;
+}
+/*recent start*/
+.work ul li a {
+    padding: 0 14px 15px;
+}
+.w_img {
+    padding: 24px 50px;
+}
+/*nipro start*/
+.category {
+    padding: 0 50px;
+}
+.cat_h2 {
+    padding: 14px 0 30px 57px;
+}
+/*team start*/
+.t_img {
+    padding: 30px 30px 0;
+}
+/*price start*/
+.card {
+    padding: 0px 35px;
+}
+.pr_h2 {
+    width: 106px;
+}
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+
+.text_logo{
+	font-size: 25px;
+}
+/*slider start*/
+.s_slide{
+    text-align: center;
+    margin: 130px 20px;
+}
+.slide_h1{
+    font-size: 30px;
+}
+.slide_p{
+    margin: 50px 0 55px;
+    line-height: 30px;
+}
+.ind{
+    text-align: center;
+}
+/*service start*/
+.arrow {
+    height: 35px;
+}
+.ser_title{
+	padding-top: 30px;
+}
+.ser_p {
+    padding: 0 25px 40px;
+}
+.ser_item {
+    margin: 40px 115px;
+}  
+.ser_icon {
+    padding-bottom: 20px;
+}
+/*about start*/
+.about {
+    padding: 50px 0 100px;
+}
+.about_img {
+    padding: 0 90px 80px;
+}
+.abt {
+    padding: 0 44px;
+    text-align: center;
+}
+.para {
+    margin: 0;
+    padding: 25px 0;
+    line-height: 35px;
+}
+.button{
+	justify-content: center;
+    display: flex;
+}
+/*recent start*/
+.w_img {
+    padding: 70px 80px 0;
+}
+/*nipro start*/
+.cat_icon i {
+    font-size: 40px;
+}
+.cat_h2 {
+    padding: 14px 45px 30px;
+}
+.cat_para {
+    padding: 0 53px 30px 0;
+}
+/*nipro start*/
+.category {
+    padding: 20px 22px 0;
+}
+.cat_h2 {
+    padding: 14px 0 30px 45px;
+}
+/*team start*/
+.t_img {
+    padding: 35px 25px 0;
+}
+/*price start*/
+.pr_h2 {
+    width: 106px;
+}
+
+
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*slider start*/
+.s_slide{
+    text-align: center;
+    margin: 150px 74px;
+}
+.slide_h1{
+    font-size: 35px;
+}
+.ind{
+    text-align: center;
+}
+/*service start*/
+.arrow {
+    height: 35px;
+}
+.ser_title{
+	padding-top: 30px;
+}
+.ser_h1 {
+    margin: 30px 0 40px;
+}
+.ser_p {
+    padding: 0 74px 40px;
+}
+.ser_item {
+    margin: 50px 35px;
+} 
+.ser_icon {
+    padding-bottom: 20px;
+}
+/*about start*/
+.about {
+    padding: 50px 0 100px;
+}
+.about_img {
+    padding: 0 130px 80px;
+}
+.abt {
+    padding: 0 74px;
+    text-align: center;
+}
+.para {
+    margin: 0;
+    padding: 25px 0;
+    line-height: 35px;
+}
+.button{
+	justify-content: center;
+    display: flex;
+}
+/*recent start*/
+.w_img {
+    padding: 65px 30px 0;
+}
+/*nipro start*/
+.category {
+    padding: 0 35px;
+ }
+/* team start*/
+.t_img {
+    padding: 55px 30px 0;
+}
+/*price start*/
+.card {
+    padding: 0 49px;
+}
+.pr_h2{
+    width: 106px;
+}
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu ul li a{
+    padding: 0 10px !important;
+    font-size: 14px;
+}
+
+/*slider start*/
+.s_slide {
+    margin: 185px 0;
+}
+.slide_h1{
+	font-size: 50px
+}
+/*service start*/
+.arrow {
+    height: 40px;
+}
+h1{
+	font-size: 25px;
+}
+.ser_p {
+    padding-bottom: 40px;
+}
+/*about start*/
+.about {
+    padding: 100px 0;
+}
+.about_img{
+    padding-top: 7px;
+}
+.abt {
+    padding-left: 50px;
+}
+.para {
+    font-size: 15px;
+    padding: 9px 0;
+    line-height: 21px;
+}
+/*recent start*/
+.work ul li a {
+    padding: 0 12px;
+    font-size: 14px;
+}
+/*price start*/
+.amount {
+    font-size: 30px !important;
+}
+
+ }
+
+/* Extra Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+ }
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+	
+ }
